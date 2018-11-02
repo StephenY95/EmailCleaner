@@ -1,0 +1,25 @@
+h1,
+h2 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 200;
+}
+
+h1 {
+	font-size: 20px;
+}
+
+h2 {
+	font-size: 12px;
+}
+
+body {
+	min-width: 500px;
+	padding: 10px;
+	padding-top: 5px;
+}
+
+button {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 200;
+	font-size: 12px;
+}
